@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OOPIP_LAB.vcxproj" Id="3bbdc554-86fc-4607-9495-a3b3fc780e6b" />
+</Solution>
